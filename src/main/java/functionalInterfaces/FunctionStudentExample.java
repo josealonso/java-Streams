@@ -1,8 +1,8 @@
-package com.learnJava.functionalInterfaces;
+package functionalInterfaces;
 
 
-import com.learnJava.data.Student;
-import com.learnJava.data.StudentDataBase;
+import data.Student;
+import data.StudentDataBase;
 
 import java.util.HashMap;
 import java.util.List;
