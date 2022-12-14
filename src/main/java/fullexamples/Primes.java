@@ -29,6 +29,6 @@ public class Primes {
         System.out.println("For [2, 3, 4, 5], it's " + new Primes().isPrimeFunctionalStyle(6)
                 + " using functional style");
         System.out.println("For [2, 3, 4, 5], it's " + new Primes().isPrimeImperativeStyle(6)
-                + " using imperativel style");
+                + " using imperative style");
     }
 }
